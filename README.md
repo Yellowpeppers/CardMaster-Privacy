@@ -77,7 +77,7 @@ git push
 
 ## 联系方式
 
-- 邮箱：support@yellowpeppers.com
+- 邮箱：charlotteandhisdog@gmail.com
 - 网站：https://yellowpeppers.github.io/CardMaster-Privacy/
 
 ## 许可证
